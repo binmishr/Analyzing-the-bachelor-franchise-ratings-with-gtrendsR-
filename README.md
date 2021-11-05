@@ -1,0 +1,1 @@
+# Analyzing-the-bachelor-franchise-ratings-with-gtrendsR-
